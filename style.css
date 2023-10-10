@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+table {
+    margin: 20px auto;
+    width: 600px;
+    border-collapse: collapse;
+}
+
+th ul {
+    list-style: none;
+    text-align: left;
+    padding-left: 3px;
+    margin-top: 0;
+}
+
+th ul li {
+    font-size: 12px;
+    font-weight: 100;
+}
+
+img {
+    height: 90px;
+    float: right;
+}
+
+.profil {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.content th {
+    background-color: pink;
+    font-size: 24px;
+}
+
+.content td {
+    font-size: 13px;
+    padding: 5px;
+}
+
+.col {
+    width: 80px;
+    font-weight: bold;
+}
